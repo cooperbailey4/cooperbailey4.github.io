@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=IllegalIDException
+comment0.text=\r\n\ Illegal\ ID\ Exception\r\n
+comment1.params=ID
+comment1.target=IllegalIDException(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ IllegalIDException\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+numComments=3
